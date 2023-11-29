@@ -16,7 +16,6 @@ Aim: To use recursion and solve the problems
 (4) number=5326 -> 6+rev_the_number(532) and so on and we get 6235
 
 ## OUTPUT:
-
 ![Screenshot (71)](https://github.com/saileshkumar16/LAB5/assets/144588637/5e1879d3-2d1d-4fb9-bf57-afd1c83e9005)
 ![Screenshot (72)](https://github.com/saileshkumar16/LAB5/assets/144588637/9d9cea2a-019e-4ef2-9d09-142568259bba)
 ![Screenshot (73)](https://github.com/saileshkumar16/LAB5/assets/144588637/c5baf84a-f3af-4f1d-9d13-da418999c0d2)
